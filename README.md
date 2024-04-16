@@ -1,4 +1,4 @@
-# American-Baby-Names-1920-2022
+# American Baby Names 1920-2022
 An open data of Popular Baby Names made by the United States Social Security Administration (SSA) that provides insights on naming trends among time.
 
 ![BabyNamesProjectOverview](https://github.com/IoanaMRusu/American-Baby-Names-1920-2022/assets/144055123/be467f61-c1b1-46cd-ac0d-9482721a8266)
